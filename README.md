@@ -2,6 +2,8 @@
 
 ## Sales and Transaction Analysis Dashboard using Pivot Tables & Pivot Charts
 
+## use this data <a href ="https://github.com/SPraveeen/coffee_shop_DA_Project/blob/main/Coffee%20Shop%20Sales_Empty_Data.xlsx">Data</a>
+
 - **Project Description:**
 
 - This project involved developing an interactive sales and transaction analysis dashboard in Microsoft Excel, utilizing Pivot Tables and Pivot Charts to visualize business performance metrics. The dataset comprised sales transactions across multiple store locations, product categories, and time periods.
